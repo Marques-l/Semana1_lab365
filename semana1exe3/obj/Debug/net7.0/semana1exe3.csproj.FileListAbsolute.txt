@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\bin\Debug\net7.0\semana1exe3.exe
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\bin\Debug\net7.0\semana1exe3.deps.json
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\bin\Debug\net7.0\semana1exe3.runtimeconfig.json
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\bin\Debug\net7.0\semana1exe3.dll
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\bin\Debug\net7.0\semana1exe3.pdb
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\obj\Debug\net7.0\semana1exe3.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\obj\Debug\net7.0\semana1exe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\obj\Debug\net7.0\semana1exe3.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\obj\Debug\net7.0\semana1exe3.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\obj\Debug\net7.0\semana1exe3.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\obj\Debug\net7.0\semana1exe3.dll
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\obj\Debug\net7.0\refint\semana1exe3.dll
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\obj\Debug\net7.0\semana1exe3.pdb
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\obj\Debug\net7.0\semana1exe3.genruntimeconfig.cache
+C:\Users\Larissa\OneDrive\vscode\Helloword\semana1exe3\obj\Debug\net7.0\ref\semana1exe3.dll
