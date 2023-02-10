@@ -1,0 +1,15 @@
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\bin\Debug\net7.0\semana1exe7.exe
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\bin\Debug\net7.0\semana1exe7.deps.json
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\bin\Debug\net7.0\semana1exe7.runtimeconfig.json
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\bin\Debug\net7.0\semana1exe7.dll
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\bin\Debug\net7.0\semana1exe7.pdb
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\obj\Debug\net7.0\semana1exe7.csproj.AssemblyReference.cache
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\obj\Debug\net7.0\semana1exe7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\obj\Debug\net7.0\semana1exe7.AssemblyInfoInputs.cache
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\obj\Debug\net7.0\semana1exe7.AssemblyInfo.cs
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\obj\Debug\net7.0\semana1exe7.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\obj\Debug\net7.0\semana1exe7.dll
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\obj\Debug\net7.0\refint\semana1exe7.dll
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\obj\Debug\net7.0\semana1exe7.pdb
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\obj\Debug\net7.0\semana1exe7.genruntimeconfig.cache
+C:\Users\Larissa\OneDrive\vscode\lab365\semana1exe7\obj\Debug\net7.0\ref\semana1exe7.dll
